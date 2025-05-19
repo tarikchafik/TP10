@@ -57,7 +57,7 @@ h3 {
     align-items: flex-start;
     gap: 40px;
     flex-wrap: wrap;
-    margin-top: 30px;
+    margin-top: 32px;
 }
 
 .formulaire,
